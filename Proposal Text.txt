@@ -1,0 +1,7 @@
+Name: Neal Gragg
+
+Project Topic (Refined): May the Data Be With You: A Star Wars Analysis 
+
+GitHub Repo: https://github.com/NealGragg/AppliedML
+
+Paper Detail (Optional): Walt Hickey, 2014, America’s Favorite ‘Star Wars’ Movies (And Least Favorite Characters), https://fivethirtyeight.com/features/americas-favorite-star-wars-movies-and-least-favorite-characters/
